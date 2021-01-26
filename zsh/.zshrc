@@ -21,6 +21,7 @@ alias c="clear"
 alias yay="paru" aur="paru"
 alias pacup="sudo pacman -Syu"
 alias lolcat="dotacat"
+alias gcl="git clone"
 
 alias icat="kitty +kitten icat --place 32x32@0x0"
 
