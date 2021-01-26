@@ -1,0 +1,5 @@
+#!/bin /bash
+cp ~/.config/kitty/kitty.conf ./kitty/
+cp ~/.config/nvim/init.vim ./nvim/
+cp ~/.zshrc ./zsh/
+cp ~/.p10k.zsh ./zsh/
